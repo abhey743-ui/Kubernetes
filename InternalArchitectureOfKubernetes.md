@@ -1,3 +1,8 @@
+
+<img width="1911" height="968" alt="image" src="https://github.com/user-attachments/assets/18f70a1e-831f-4827-b1b2-2ab35b58d38e" />
+
+
+
 # Kubernetes Internal Architecture — Detailed Explanation
 
 This document explains the **Kubernetes Internal Architecture diagram** (the one from your course) in full detail — piece by piece, so you understand exactly how every component works and connects to the others.
